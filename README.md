@@ -19,7 +19,9 @@
 
 - 🌱 I’m currently learning **Deep Neural Network with NLP**
 
-- 📝 I regularly write articles on [https://medium.com/@antratripathi.at](https://medium.com/@antratripathi.at)
+- 👨‍💻 Studied **MSc Big Data Science** at **Queen Mary University of London**
+
+- 📝 I regularly write articles on [Medium](https://medium.com/@antratripathi.at)
 
 - 💬 Ask me about **Data Science, Machine Learning, NLP etc.**
 
@@ -35,7 +37,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
 <a href="https://twitter.com/antra_tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="antra_tripathi" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/antra-tripathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="antra-tripathi" height="30" width="40" /></a>
 <a href="https://medium.com/@antratripathi.at" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@antratripathi.at" height="30" width="40" /></a>
@@ -54,6 +55,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antra0497&show_icons=true&locale=en" alt="antra0497" /></p>
 
-
+<!-- Gif Line -->
+![](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
 
