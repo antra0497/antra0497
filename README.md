@@ -32,6 +32,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+
+- [Debunking Gold Label Idealization with Crowd Annotation](https://medium.com/@antratripathi_at/debunking-gold-label-idealization-with-crowd-annotation-3b2113deee4b)
+
+
+
 <!-- BLOG-POST-LIST:END -->
 
 
