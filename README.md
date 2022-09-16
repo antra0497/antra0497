@@ -50,7 +50,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=antra0497&show_icons=true&locale=en&layout=compact" alt="antra0497" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antra0497&theme=tokyonight" alt="antra0497" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=antra0497" alt="antra0497" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=antra0497&show_icons=true&locale=en" alt="antra0497" /></p>
 
