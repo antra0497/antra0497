@@ -21,7 +21,7 @@
 
 - 👨‍💻 Studied **MSc Big Data Science** at **Queen Mary University of London**
 
-- 📝 I regularly write articles on [Medium](https://medium.com/@antratripathi.at)
+- 📝 I regularly write articles on [Medium](https://medium.com/@antratripathi.at) and [Photography-Blog](https://sensationalgleam.wordpress.com/)
 
 - 💬 Ask me about **Data Science, Machine Learning, NLP etc.**
 
@@ -30,11 +30,14 @@
 <!-- Github trophy-->
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antra0497" alt="antra0497" /></a> </p>
 
-### Blogs posts
+### Blogs posts 
 <!-- BLOG-POST-LIST:START -->
 
 - [Debunking Gold Label Idealization with Crowd Annotation](https://medium.com/@antratripathi_at/debunking-gold-label-idealization-with-crowd-annotation-3b2113deee4b)
 
+- [YNG Walls Myanmar From Trash Alley To Graffiti Wall](https://sensationalgleam.wordpress.com/2020/04/23/ygn-walls-myanmar-from-trash-alley-to-graffiti-wall/)
+
+- [What's your defination of Art?](https://sensationalgleam.wordpress.com/2018/04/25/whats-your-definition-of-art/)
 
 
 <!-- BLOG-POST-LIST:END -->
