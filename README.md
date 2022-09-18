@@ -33,14 +33,19 @@
 ### Blogs posts 
 <!-- BLOG-POST-LIST:START -->
 
-- [Debunking Gold Label Idealization with Crowd Annotation](https://medium.com/@antratripathi_at/debunking-gold-label-idealization-with-crowd-annotation-3b2113deee4b)
+
+
+
+<!-- BLOG-POST-LIST:END -->
+
+<!--
+ - [Debunking Gold Label Idealization with Crowd Annotation](https://medium.com/@antratripathi_at/debunking-gold-label-idealization-with-crowd-annotation-3b2113deee4b)
 
 - [YNG Walls Myanmar From Trash Alley To Graffiti Wall](https://sensationalgleam.wordpress.com/2020/04/23/ygn-walls-myanmar-from-trash-alley-to-graffiti-wall/)
 
 - [What's your defination of Art?](https://sensationalgleam.wordpress.com/2018/04/25/whats-your-definition-of-art/)
 
-
-<!-- BLOG-POST-LIST:END -->
+-->
 
 
 <h3 align="left">Connect with me:</h3>
