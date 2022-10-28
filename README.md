@@ -28,11 +28,11 @@
 
 ### Blogs posts 
 <!-- BLOG-POST-LIST:START -->
-- [Debunking Gold Label Idealization with Crowd Annotation](https://medium.com/@antratripathi_at/debunking-gold-label-idealization-with-crowd-annotation-3b2113deee4b?source=rss-1813a9e94792------2)
 - [YGN Walls &lpar;Myanmar&rpar;: From trash alley to graffiti wall](https://sensationalgleam.wordpress.com/2020/04/23/ygn-walls-myanmar-from-trash-alley-to-graffiti-wall/)
 - [Life: An Analogy](https://sensationalgleam.wordpress.com/2020/03/28/life-an-analogy/)
 - [Jaipur: Land of Royalty and Sensational Beauty](https://sensationalgleam.wordpress.com/2019/03/12/jaipur-land-of-royalty-and-sensational-beauty/)
 - [What’s your definition of “Art”?](https://sensationalgleam.wordpress.com/2018/04/25/whats-your-definition-of-art/)
+- [A Rarity In The Sky!](https://sensationalgleam.wordpress.com/2018/04/25/a-rarity-in-the-sky/)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
